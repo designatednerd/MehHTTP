@@ -2,7 +2,7 @@ import MehHTTP
 import PlaygroundSupport
 import Foundation
 
-/*
+/*:
  # MehHTTPClient
  
  To fire off any request, create a `URLRequest` and pass it in to the `run` method.
